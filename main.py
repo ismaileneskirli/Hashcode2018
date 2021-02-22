@@ -5,8 +5,7 @@ file_dict = {
 2:["input/b_should_be_easy.in","b_submission.in"],
 3:["input/c_no_hurry.in","c_submission.in"],
 4:["input/d_metropolis.in","d_submission.in"],
-5:["input/e_high_bonus.in","e_submission.in"
-e_high_bonus.in","e_submission.in"]
+5:["input/e_high_bonus.in","e_submission.in"]
 }
 
 class Drive:

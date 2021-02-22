@@ -1,2 +1,2 @@
 # Hashcode2018
-Here is my solution for
+Here is our solution for hashcode 2018
